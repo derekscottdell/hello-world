@@ -1,6 +1,6 @@
 # hello-world
-Just another repository
+* Just another repository
+* Second line
+* Third line
 
-Second line
-
-Third line
+This file now has three bulleted items.
