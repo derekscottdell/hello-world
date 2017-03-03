@@ -2,5 +2,6 @@
 * Just another repository
 * Second line
 * Third line
+* Fourth line
 
-This file now has three bulleted items.
+This file now has four bulleted items.
